@@ -1,6 +1,8 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Sonina-Sudakov/Retail-Inventory-Sales-Management-System-backend
+    branch = main
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Sonina-Sudakov/Retail-Inventory-Sales-Management-System-frontend
+    branch = main
