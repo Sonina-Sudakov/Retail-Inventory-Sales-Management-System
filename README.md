@@ -68,7 +68,7 @@ The system supports three user roles with different levels of access and respons
 
 **Frontend**
 
-* JavaScript - the primary programming language used for the client side;
+* TypeScript - the primary programming language used for the client side;
 * React - a library for building the user interface;
 * Vite - a build tool and development server for the frontend application;
 * Ant Design (Antd) - a library of ready-to-use UI components;
