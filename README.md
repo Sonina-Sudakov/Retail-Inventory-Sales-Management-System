@@ -93,7 +93,10 @@ PostgreSQL
 ## System Class Diagram
 
 The class diagram represents the main classes of the application and their relationships, reflecting the structure of the implemented system.
-<img width="2009" height="1568" alt="image" src="https://github.com/user-attachments/assets/b42974d2-b8bc-4a0b-8d29-a8840122e8ad" />
+
+<p align="center">
+    <img src="https://github.com/Sonina-Sudakov/Retail-Inventory-Sales-Management-System/blob/main/docs/images/Classes-Diagram.svg" width="90%" alt="Classes-Diagram">
+</p>
 
 ## Domain Model
 
